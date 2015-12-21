@@ -5,6 +5,8 @@ Zeus can launch Apps,Music,Videos,Webpages and many more with Single(or multiple
 
 Want to copy-and- paste same text again and again? Use ZEUSREAD (see Config.ini). On singleKeypress Zeus will read and paste the content on the active window.
 
+#### if you're a developer and love fast launching of app, then you should try this.
+
 ## Instructions
 
 1. Zeus reads from the Config.ini file.
